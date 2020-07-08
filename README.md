@@ -1,6 +1,4 @@
-# Natours
-
-![logo](./img/logo-green-small-1x.png)
+# Natours ![logo](./img/logo-green-small-1x.png)
 
 Website for a company that offers nature tours.  
 
